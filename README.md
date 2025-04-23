@@ -6,6 +6,7 @@
 
 
 ![Gurgel GitHub stats](https://github-readme-stats.vercel.app/api?username=romulogurgeldev&theme=chartreuse-dark&show_icons=true)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogurgeldev&layout=compact&theme=tokyonight&hide=jupyter%20notebook,c%2B%2B,html,cmake,pug,css"/>
 
 ## Tecnologias que uso no meu dia-a-dia:
 
