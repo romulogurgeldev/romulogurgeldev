@@ -5,8 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%B4mulo-r%C3%A9gis-gurgel-596b7b218/)</br>
 
 
-![Gurgel GitHub stats](https://github-readme-stats.vercel.app/api?username=romulogurgeldev&theme=chartreuse-dark&show_icons=true)
+<div align="center">
+<a href="https://github.com/romulogurgeldev">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=romulogurgeldev&show_icons=true&theme=tokyonight"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogurgeldev&layout=compact&theme=tokyonight&hide=jupyter%20notebook,c%2B%2B,html,cmake,pug,css"/>
+</div>
 
 ## Tecnologias que uso no meu dia-a-dia:
 
