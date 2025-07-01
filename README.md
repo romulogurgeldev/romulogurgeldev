@@ -4,10 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/romulo.gurgel.1910)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulogurgeldev/)</br>
 
-# 👋 Fala aí! Eu sou o Rômulo 🚀
-<p align="left"><br>Sou desenvolvedor por vocação, café por sangue e código por linguagem. Curioso nato, apaixonado por resolver problemas e sempre em busca da próxima stack que vai me tirar da zona de conforto (e me fazer reescrever tudo de novo, claro 😂). </p>
-   👨‍💻 Sobre mim<br><br>
- <p align="left"> - 🔭 Atualmente trabalhando como Desenvolvedor Backend<br>- 🌱 Sempre aprendendo algo novo — porque quem para, vira obsoleto<br>- 💡 Gosto de criar soluções que realmente importam — sem enrolação, com foco em valor real<br>- 🧠 Mentalidade de produto, pensamento de engenharia, coração de criador<br><br>> “Build, break, repeat — é assim que nasce o bom dev.”  <br>> — Eu mesmo, cansado às 3 da manhã debugando algo que "não fazia sentido"</p>
+<p align="left"># 👋 Fala aí! Eu sou o Rômulo 🚀<br><br>Sou desenvolvedor por vocação, café por sangue e código por linguagem. Curioso nato, apaixonado por resolver problemas e sempre em busca da próxima stack que vai me tirar da zona de conforto (e me fazer reescrever tudo de novo, claro 😂).<br><br>## 👨‍💻 Sobre mim<br><br>- 🔭 Atualmente trabalhando como Desenvolvedor Backend<br>- 🌱 Sempre aprendendo algo novo — porque quem para, vira obsoleto<br>- 💡 Gosto de criar soluções que realmente importam — sem enrolação, com foco em valor real<br>- 🧠 Mentalidade de produto, pensamento de engenharia, coração de criador<br><br>> “Build, break, repeat — é assim que nasce o bom dev.”  <br>> — Eu mesmo, cansado às 3 da manhã debugando algo que "não fazia sentido"</p>
 
 ###
 
@@ -49,13 +46,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romulogurgeldev/romulogurgeldev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romulogurgeldev/romulogurgeldev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/romulogurgeldev/romulogurgeldev/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/romulogurgeldev/count.svg?"  />
+</div>
 
 ###
